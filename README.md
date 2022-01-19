@@ -14,6 +14,8 @@ Datasets exploited:
 5. IRIS
 6. Gapminder World
 
+Dash running on http://127.0.0.1:8050/
+
 More info can be found about Dash dropdown: https://dash.plotly.com/dash-core-components/dropdown
 
 Intro to Dash: https://dash.plotly.com/introduction
